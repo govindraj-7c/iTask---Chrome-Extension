@@ -1,0 +1,13 @@
+{
+    "name": "iTask",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_title": "iTask",
+        "default_popup": "index.html",
+        "default_icon": {
+            "128": "logo.png",
+            "16": "logo.png"
+        }
+    }
+}
