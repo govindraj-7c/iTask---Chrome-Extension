@@ -9,6 +9,14 @@ This project is a versatile To-Do List web application, now conveniently availab
 - **Real-time Updates**: Instantly reflects changes to tasks without the need for a page refresh.
 - **Cross-Platform**: Works across different devices with Chrome, maintaining your task list wherever you go.
 
+#### How to add iTask to your Chrome Extension:
+- **Step 1** : Download all files.
+- **Step 2** : Initialize project with "npm init" command in terminal.
+- **Step 3** : Run command "npm run build".
+- **Step 4** : Open extension tab in browser and on developer mode.
+- **Step 5** : Load the "dist" folder in extension using "Load unpacked" option.
+- **Step 6** : Enjoy iTask!!
+
 
 
 
